@@ -31,11 +31,16 @@ The Amazon SageMaker Autopilot Expereience ran 250 trials. I choose the best mod
 
 ## Predicting Job Title Using the Model
 
-I predicted the first 2000 samples of the dataset using the endpoint. I also calculated accuracy, presion, recall and f1 score to analyze my results.
+I predicted the first 2000 samples of the dataset using the endpoint. I also calculated accuracy, presion, recall and f1 score to analyze my results. The model performed very well.
+
+Here are my results:
 
 **Accuracy: 0.9880**
+
 **Precision: 0.6552**
+
 **Recall: 0.9048**
+
 **F1 Score: 0.7600**
 
 ## Final Thoughts
