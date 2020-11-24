@@ -1,7 +1,7 @@
 # AWS Project: Machine Learning with Amazon SageMaker Autopilot
 
 ## Introduction
-As a Data Science major, I wanted my AWS Project to include knowledge that I have studied as apart of my Data Science degree. I decided to implement a machine learning model using one of Amazon's sample datasets. The goal of this project is to predict Job Title based on someone's age, marital status, education, house and etc using Amazon SageMaker Autopilot. I will be running a binary classifier.
+As a Data Science major, I wanted my AWS Project to include knowledge that I have studied as apart of my Data Science degree. I followed Amazon's Hands-On Tutorial *Create a machine learning model automatically.* In this project, I implemented a machine learning model using one of Amazon's sample datasets. The goal of this project is to predict Job Title based on someone's age, marital status, education, house and etc using Amazon SageMaker Autopilot. I will be running a binary classifier.
 
 ## The Data
 
