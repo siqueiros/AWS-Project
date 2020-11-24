@@ -46,3 +46,5 @@ Here are my results:
 ## Final Thoughts
 
 The Amazon SageMaker Autopilot Experience makes machine learning easier and more efficient since it tunes and finds the best model. 
+
+(A copy of the code is in the AWS_ML_Code.rst file)
